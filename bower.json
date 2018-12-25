@@ -1,0 +1,25 @@
+{
+  "name": "katcomms",
+  "description": "gulp nodemon browserSync handlebars foundation",
+  "main": "server.js",
+  "authors": [
+    "Tsotetsi Mosala"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Gulp4",
+    "nodemon",
+    "browser-sync",
+    "express.js",
+    "handlebars",
+    "fondation"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

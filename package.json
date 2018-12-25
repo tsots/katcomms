@@ -1,0 +1,34 @@
+{
+  "name": "katcomms",
+  "version": "1.0.0",
+  "description": "Katalist Communications version of gulp, nodemon and browserSync coming together using express and handlebars spicing them up with foundation from zurb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Gulp4",
+    "nodemon",
+    "browser-sync",
+    "express.js",
+    "handlebars",
+    "fondation"
+  ],
+  "author": "Tsotetsi Mosala",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-nodemon": "^2.4.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
